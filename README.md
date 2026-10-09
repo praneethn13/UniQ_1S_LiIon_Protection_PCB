@@ -75,9 +75,9 @@ The schematic was designed in KiCad using the DW01A protection IC, two AO3400A M
 
 The PCB was visualized using KiCad's 3D Viewer to verify component placement and overall board assembly.
 
-![3D PCB View](Documentation/3d_view.png)
+![3D PCB View](3d_view.png)
 
-[▶ Watch Full 3D PCB Demonstration](Documentation/3d_view.mp4)
+[▶ Watch Full 3D PCB Demonstration](3d_view.mp4)
 
 ## PCB Validation
 
