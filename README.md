@@ -63,9 +63,28 @@ The back-to-back MOSFET configuration provides controlled switching of the batte
 
 The schematic was designed in KiCad using the DW01A protection IC, two AO3400A MOSFETs, resistors, capacitor, battery connector, and protected output connector.
 
-### Schematic Diagram
+## Schematic
 
-![1S Li-ion Battery Protection Schematic](schematic.png)
+![Schematic](schematic.png)
+
+## PCB Layout
+
+![PCB Layout](pcb_layout.png)
+
+## 3D View
+
+![3D PCB View](3d_view.gif)
+
+[▶ Watch Full 3D PCB Demonstration](3d_view.mp4)
+
+## PCB Validation
+
+The PCB was checked using KiCad's Design Rules Checker (DRC).
+
+- Violations: 0
+- Unconnected items: 0
+
+![DRC Result](drc_result.png)
 
 ### Main Connections
 
