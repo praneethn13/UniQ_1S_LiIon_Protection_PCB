@@ -1,0 +1,11 @@
+# KiCad backup and lock files
+*-backups/
+*.lck
+*.kicad_prl
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
