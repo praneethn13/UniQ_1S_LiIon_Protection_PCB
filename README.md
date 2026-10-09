@@ -65,7 +65,7 @@ The schematic was designed in KiCad using the DW01A protection IC, two AO3400A M
 
 ### Schematic Diagram
 
-![1S Li-ion Battery Protection Schematic](Documentation/schematic.png)
+![1S Li-ion Battery Protection Schematic](schematic.png)
 
 ### Main Connections
 
